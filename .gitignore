@@ -1,0 +1,7 @@
+secrets.yml
+
+.env
+
+logs/
+
+*.c
